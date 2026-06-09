@@ -1,8 +1,8 @@
 # Holistic Health Analytics
 
-![Dashboard 1 Overview](images/holistic_health_analytics_dashboard_1.png)
-![Dashboard 2 Overview](images/holistic_health_analytics_dashboard_2.png)
-![Dashboard 3 Overview](images/holistic_health_analytics_dashboard_3.png)
+![Dashboard 1 Overview](images/holistic_health_dashboard_1.png)
+![Dashboard 2 Overview](images/holistic_health_dashboard_2.png)
+![Dashboard 3 Overview](images/holistic_health_dashboard_3.png)
 
 ## Overview
 The Holistic Health Analytics dashboard is a healthcare performance intelligence system designed to monitor patient outcomes, clinical operations, and quality of care across the care continuum.
