@@ -1,0 +1,13 @@
+department_id,department_name,department_code,hospital_id,cost_center,is_active
+D001,Cardiology,CARD,H004,CC0001,True
+D002,Oncology,ONCO,H005,CC0002,True
+D003,Neurology,NEUR,H002,CC0003,True
+D004,Orthopedics,ORTH,H004,CC0004,True
+D005,Pediatrics,PEDI,H002,CC0005,True
+D006,Emergency,EMER,H007,CC0006,True
+D007,Radiology,RADI,H005,CC0007,True
+D008,Internal Medicine,INTM,H008,CC0008,True
+D009,Surgery,SURG,H006,CC0009,True
+D010,Psychiatry,PSYC,H003,CC0010,True
+D011,Dermatology,DERM,H006,CC0011,True
+D012,Obstetrics,OBST,H006,CC0012,True

@@ -1,0 +1,61 @@
+diagnosis_id,icd10_code,diagnosis_name,category,severity,is_chronic
+DX001,I10.8,Essential Hypertension,Oncology,Critical,False
+DX002,E11.5,Type 2 Diabetes,Respiratory,Critical,False
+DX003,J18.8,Pneumonia,Oncology,Severe,False
+DX004,M54.3,Back Pain,Musculoskeletal,Severe,False
+DX005,F32.3,Major Depressive Disorder,Mental Health,Severe,True
+DX006,I25.7,Chronic Ischemic Heart Disease,Oncology,Critical,False
+DX007,J44.8,COPD,Mental Health,Severe,True
+DX008,N18.9,Chronic Kidney Disease,Neurological,Critical,False
+DX009,E78.5,Hyperlipidemia,Respiratory,Severe,True
+DX010,C34.4,Lung Cancer,Endocrine,Severe,False
+DX011,I50.4,Heart Failure,GI,Moderate,True
+DX012,K21.8,GERD,Mental Health,Severe,True
+DX013,M17.1,Osteoarthritis of Knee,Infectious,Moderate,True
+DX014,G43.0,Migraine,Neurological,Moderate,True
+DX015,F41.0,Anxiety Disorder,Endocrine,Critical,False
+DX016,E66.7,Obesity,Endocrine,Moderate,True
+DX017,N39.8,UTI,Respiratory,Critical,False
+DX018,J06.7,Upper Respiratory Infection,Musculoskeletal,Severe,False
+DX019,K57.4,Diverticulitis,Cardiovascular,Mild,True
+DX020,I48.8,Atrial Fibrillation,Cardiovascular,Moderate,False
+DX021,I10.2,Essential Hypertension,Cardiovascular,Critical,False
+DX022,E11.2,Type 2 Diabetes,Mental Health,Mild,True
+DX023,J18.4,Pneumonia,Infectious,Mild,False
+DX024,M54.4,Back Pain,GI,Critical,True
+DX025,F32.8,Major Depressive Disorder,GI,Severe,True
+DX026,I25.1,Chronic Ischemic Heart Disease,Oncology,Moderate,False
+DX027,J44.4,COPD,Respiratory,Mild,False
+DX028,N18.4,Chronic Kidney Disease,Infectious,Moderate,True
+DX029,E78.9,Hyperlipidemia,Renal,Critical,False
+DX030,C34.1,Lung Cancer,Renal,Mild,True
+DX031,I50.2,Heart Failure,GI,Severe,True
+DX032,K21.0,GERD,Mental Health,Critical,True
+DX033,M17.7,Osteoarthritis of Knee,Mental Health,Severe,False
+DX034,G43.9,Migraine,Infectious,Mild,False
+DX035,F41.5,Anxiety Disorder,Musculoskeletal,Mild,True
+DX036,E66.7,Obesity,Mental Health,Moderate,False
+DX037,N39.8,UTI,Mental Health,Mild,False
+DX038,J06.5,Upper Respiratory Infection,Infectious,Moderate,True
+DX039,K57.2,Diverticulitis,GI,Moderate,False
+DX040,I48.9,Atrial Fibrillation,Oncology,Critical,False
+DX041,I10.8,Essential Hypertension,Musculoskeletal,Moderate,True
+DX042,E11.8,Type 2 Diabetes,GI,Severe,True
+DX043,J18.9,Pneumonia,Endocrine,Mild,True
+DX044,M54.9,Back Pain,Neurological,Moderate,True
+DX045,F32.5,Major Depressive Disorder,Neurological,Critical,True
+DX046,I25.3,Chronic Ischemic Heart Disease,Infectious,Critical,True
+DX047,J44.8,COPD,GI,Mild,False
+DX048,N18.2,Chronic Kidney Disease,Neurological,Critical,False
+DX049,E78.9,Hyperlipidemia,Cardiovascular,Critical,False
+DX050,C34.0,Lung Cancer,Renal,Severe,True
+DX051,I50.3,Heart Failure,Infectious,Mild,True
+DX052,K21.6,GERD,Oncology,Mild,True
+DX053,M17.1,Osteoarthritis of Knee,GI,Mild,False
+DX054,G43.6,Migraine,Respiratory,Moderate,False
+DX055,F41.5,Anxiety Disorder,Renal,Critical,False
+DX056,E66.6,Obesity,Endocrine,Moderate,False
+DX057,N39.1,UTI,Respiratory,Critical,True
+DX058,J06.3,Upper Respiratory Infection,Cardiovascular,Mild,False
+DX059,K57.7,Diverticulitis,Neurological,Critical,False
+DX060,I48.3,Atrial Fibrillation,Musculoskeletal,Critical,False

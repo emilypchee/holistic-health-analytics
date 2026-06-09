@@ -1,0 +1,81 @@
+plan_id,patient_id,provider_id,diagnosis_id,plan_name,start_date,end_date,status,goal_description
+TP001,PT0085,P037,DX055,Hypertension Control,2023-10-23,2023-11-13,Completed,Lower BP to 120/80
+TP002,PT0146,P031,DX018,Diabetes Management,2023-12-10,2024-11-24,On Hold,Manage chronic pain
+TP003,PT0009,P012,DX060,Cancer Treatment,2023-08-01,,Completed,Manage chronic pain
+TP004,PT0102,P005,DX020,Cardiac Rehab,2022-05-28,2023-12-29,Discontinued,Complete chemotherapy cycle
+TP005,PT0085,P025,DX049,Cardiac Rehab,2023-07-08,2023-09-26,On Hold,Reduce A1C below 7.0
+TP006,PT0112,P015,DX054,Hypertension Control,2022-04-11,,Discontinued,Improve functional capacity
+TP007,PT0070,P029,DX032,Mental Health Program,2022-01-31,,Discontinued,Achieve remission
+TP008,PT0150,P043,DX025,Hypertension Control,2022-07-10,2023-05-08,Completed,Complete chemotherapy cycle
+TP009,PT0022,P018,DX010,COPD Management,2022-03-17,2023-12-26,Completed,Complete chemotherapy cycle
+TP010,PT0082,P024,DX007,Hypertension Control,2023-02-03,,On Hold,Achieve remission
+TP011,PT0070,P007,DX009,Hypertension Control,2023-01-04,,Discontinued,Manage chronic pain
+TP012,PT0132,P027,DX007,Diabetes Management,2023-07-23,,Active,Manage chronic pain
+TP013,PT0084,P025,DX001,Pain Management,2023-09-05,2024-10-07,Active,Complete chemotherapy cycle
+TP014,PT0063,P037,DX034,Cardiac Rehab,2023-07-27,2024-01-16,Completed,Improve functional capacity
+TP015,PT0069,P032,DX010,Hypertension Control,2022-11-05,,On Hold,Achieve remission
+TP016,PT0124,P005,DX024,Pain Management,2022-11-03,2024-11-10,Discontinued,Manage chronic pain
+TP017,PT0051,P030,DX007,Cardiac Rehab,2023-09-24,,Discontinued,Improve functional capacity
+TP018,PT0098,P022,DX029,Cancer Treatment,2024-05-11,2024-12-07,Completed,Improve functional capacity
+TP019,PT0052,P031,DX021,Cardiac Rehab,2022-11-25,2023-10-17,On Hold,Complete chemotherapy cycle
+TP020,PT0126,P037,DX051,Mental Health Program,2023-12-13,,On Hold,Achieve remission
+TP021,PT0030,P037,DX013,Cardiac Rehab,2023-01-09,2024-07-25,Active,Complete chemotherapy cycle
+TP022,PT0054,P029,DX052,Pain Management,2023-04-18,2023-06-27,Discontinued,Complete chemotherapy cycle
+TP023,PT0036,P041,DX020,Mental Health Program,2023-05-27,,Completed,Complete chemotherapy cycle
+TP024,PT0097,P005,DX029,Post-Surgical Recovery,2023-03-10,2024-09-07,Discontinued,Manage chronic pain
+TP025,PT0093,P045,DX058,Hypertension Control,2022-02-07,,Completed,Complete chemotherapy cycle
+TP026,PT0091,P011,DX042,Diabetes Management,2023-11-12,2024-10-07,Discontinued,Improve functional capacity
+TP027,PT0111,P007,DX001,Hypertension Control,2024-03-26,,Completed,Achieve remission
+TP028,PT0101,P030,DX050,Cardiac Rehab,2023-01-19,,Active,Achieve remission
+TP029,PT0076,P027,DX059,Hypertension Control,2022-04-18,,Completed,Improve functional capacity
+TP030,PT0088,P030,DX051,Mental Health Program,2022-11-16,2023-11-07,Discontinued,Reduce A1C below 7.0
+TP031,PT0116,P021,DX005,Pain Management,2023-03-25,,Active,Reduce A1C below 7.0
+TP032,PT0088,P042,DX007,Cardiac Rehab,2024-05-19,2024-11-24,Completed,Manage chronic pain
+TP033,PT0142,P011,DX022,COPD Management,2022-06-28,2023-02-20,Discontinued,Complete chemotherapy cycle
+TP034,PT0048,P041,DX043,COPD Management,2022-07-08,,Completed,Achieve remission
+TP035,PT0110,P025,DX001,Mental Health Program,2023-08-30,,Active,Manage chronic pain
+TP036,PT0138,P012,DX024,Cancer Treatment,2022-04-15,,Active,Improve functional capacity
+TP037,PT0126,P034,DX041,Cancer Treatment,2023-11-18,2024-09-25,Discontinued,Manage chronic pain
+TP038,PT0090,P023,DX055,Post-Surgical Recovery,2022-04-27,2024-08-07,On Hold,Manage chronic pain
+TP039,PT0022,P044,DX009,Cancer Treatment,2023-08-28,,On Hold,Reduce A1C below 7.0
+TP040,PT0096,P045,DX010,COPD Management,2022-07-07,2022-11-25,Discontinued,Achieve remission
+TP041,PT0125,P041,DX035,Cardiac Rehab,2022-07-10,2023-11-23,On Hold,Lower BP to 120/80
+TP042,PT0081,P029,DX040,Diabetes Management,2022-07-11,2022-07-20,Discontinued,Lower BP to 120/80
+TP043,PT0099,P036,DX033,Post-Surgical Recovery,2022-07-19,2023-12-04,Discontinued,Complete chemotherapy cycle
+TP044,PT0114,P032,DX011,Hypertension Control,2024-05-10,2024-11-29,Completed,Improve functional capacity
+TP045,PT0071,P015,DX035,Pain Management,2022-02-03,,Discontinued,Manage chronic pain
+TP046,PT0127,P036,DX033,Hypertension Control,2024-01-31,2024-06-16,On Hold,Manage chronic pain
+TP047,PT0011,P049,DX047,Post-Surgical Recovery,2024-04-22,2024-12-31,Discontinued,Reduce A1C below 7.0
+TP048,PT0064,P020,DX056,Diabetes Management,2024-01-24,2024-07-20,Active,Achieve remission
+TP049,PT0061,P014,DX052,Cancer Treatment,2022-05-01,2024-01-15,Discontinued,Lower BP to 120/80
+TP050,PT0036,P014,DX053,Mental Health Program,2023-09-23,2024-07-10,On Hold,Manage chronic pain
+TP051,PT0138,P011,DX021,Pain Management,2022-10-15,,On Hold,Manage chronic pain
+TP052,PT0025,P009,DX049,COPD Management,2023-11-27,2024-04-16,Completed,Complete chemotherapy cycle
+TP053,PT0064,P010,DX046,Cancer Treatment,2022-05-16,2024-07-03,Discontinued,Achieve remission
+TP054,PT0148,P041,DX018,COPD Management,2022-05-26,,Active,Complete chemotherapy cycle
+TP055,PT0024,P026,DX033,Pain Management,2024-03-24,2024-09-28,Discontinued,Achieve remission
+TP056,PT0149,P001,DX056,Hypertension Control,2022-12-02,2024-03-15,On Hold,Reduce A1C below 7.0
+TP057,PT0137,P026,DX014,COPD Management,2024-03-25,2024-12-03,On Hold,Improve functional capacity
+TP058,PT0073,P022,DX036,Cardiac Rehab,2024-04-28,2024-08-30,On Hold,Complete chemotherapy cycle
+TP059,PT0013,P003,DX007,Post-Surgical Recovery,2024-02-20,,Completed,Achieve remission
+TP060,PT0001,P028,DX013,Cardiac Rehab,2023-04-13,2024-02-16,Completed,Improve functional capacity
+TP061,PT0093,P017,DX006,Cancer Treatment,2022-04-06,2024-01-30,Completed,Reduce A1C below 7.0
+TP062,PT0079,P047,DX045,Mental Health Program,2023-02-10,2023-05-14,Active,Reduce A1C below 7.0
+TP063,PT0123,P005,DX009,Mental Health Program,2022-08-07,2023-11-05,Active,Reduce A1C below 7.0
+TP064,PT0088,P008,DX056,COPD Management,2023-12-14,2024-08-14,Active,Lower BP to 120/80
+TP065,PT0023,P047,DX052,Hypertension Control,2023-01-28,,On Hold,Improve functional capacity
+TP066,PT0098,P050,DX053,Cardiac Rehab,2022-05-21,2024-04-13,Completed,Reduce A1C below 7.0
+TP067,PT0145,P001,DX040,Cardiac Rehab,2023-06-28,2024-02-01,Completed,Achieve remission
+TP068,PT0114,P014,DX006,Hypertension Control,2023-09-23,,Active,Manage chronic pain
+TP069,PT0099,P023,DX028,Cancer Treatment,2024-01-18,2024-05-23,On Hold,Complete chemotherapy cycle
+TP070,PT0064,P036,DX039,Pain Management,2022-03-28,2024-03-04,Active,Complete chemotherapy cycle
+TP071,PT0053,P034,DX039,Mental Health Program,2022-11-05,2023-09-03,Active,Lower BP to 120/80
+TP072,PT0099,P008,DX016,Post-Surgical Recovery,2023-05-22,2023-08-02,Active,Improve functional capacity
+TP073,PT0034,P025,DX056,COPD Management,2022-11-21,,Completed,Achieve remission
+TP074,PT0019,P002,DX038,Hypertension Control,2024-02-28,,Completed,Reduce A1C below 7.0
+TP075,PT0102,P033,DX019,COPD Management,2022-03-03,2024-06-03,Active,Complete chemotherapy cycle
+TP076,PT0138,P040,DX010,Pain Management,2023-07-04,,Active,Manage chronic pain
+TP077,PT0040,P035,DX021,COPD Management,2022-07-28,2024-09-16,Active,Improve functional capacity
+TP078,PT0112,P047,DX055,Mental Health Program,2023-12-17,,Active,Achieve remission
+TP079,PT0117,P040,DX039,Diabetes Management,2022-04-29,,Completed,Reduce A1C below 7.0
+TP080,PT0036,P045,DX001,Cardiac Rehab,2022-01-13,2023-12-24,On Hold,Lower BP to 120/80

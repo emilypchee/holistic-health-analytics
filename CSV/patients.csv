@@ -1,0 +1,151 @@
+patient_id,first_name,last_name,dob,gender,race,city,state,zip_code,insurance_type,enrollment_date,is_active
+PT0001,David,Harris,1997-03-16,F,Black,Anaheim,CA,92269,Commercial,2021-08-08,True
+PT0002,William,Taylor,1964-05-17,Non-binary,White,San Diego,CA,93471,Medicare,2022-02-23,True
+PT0003,Michael,Williams,2003-05-17,F,Asian,Long Beach,CA,99890,Self-Pay,2022-05-01,True
+PT0004,Susan,Thomas,1958-07-22,Non-binary,White,Fresno,CA,98814,Commercial,2021-12-21,True
+PT0005,Richard,Jackson,2007-08-06,Non-binary,Other,Sacramento,CA,98999,Medicare,2021-07-12,False
+PT0006,James,Thomas,1983-07-27,M,Asian,San Diego,CA,98657,Medicare,2022-12-29,True
+PT0007,James,Williams,1975-05-08,F,Hispanic,Anaheim,CA,93977,Commercial,2021-06-16,False
+PT0008,Michael,White,1969-05-14,M,Black,Fresno,CA,95558,Self-Pay,2021-05-31,True
+PT0009,James,Johnson,1982-03-12,M,Hispanic,San Francisco,CA,91659,Commercial,2021-05-21,True
+PT0010,John,Davis,1941-10-29,F,Asian,San Francisco,CA,94571,Self-Pay,2021-06-08,True
+PT0011,Patricia,Garcia,1955-01-20,M,White,Los Angeles,CA,96111,Medicare,2022-02-07,False
+PT0012,Michael,Williams,2004-02-23,Non-binary,Hispanic,San Francisco,CA,95941,Commercial,2023-05-14,True
+PT0013,Mary,Anderson,1990-10-09,Non-binary,Asian,Long Beach,CA,92129,Medicare,2021-11-29,True
+PT0014,Jessica,Brown,1977-09-07,F,Black,Anaheim,CA,93506,Self-Pay,2020-12-26,True
+PT0015,Jessica,White,1995-04-04,F,Other,Oakland,CA,96280,Medicare,2020-06-26,True
+PT0016,Linda,White,1980-06-10,Non-binary,Other,Fresno,CA,96511,Commercial,2022-10-09,True
+PT0017,Jessica,Miller,1956-04-24,M,Black,Long Beach,CA,95581,Medicare,2021-07-19,True
+PT0018,Michael,Williams,1986-05-07,F,Asian,Anaheim,CA,94937,Commercial,2022-09-02,False
+PT0019,James,Williams,1980-03-16,M,Hispanic,Fresno,CA,94986,Medicaid,2023-04-06,True
+PT0020,Elizabeth,Jackson,1982-06-16,Non-binary,Black,Long Beach,CA,98434,Medicaid,2021-09-19,True
+PT0021,Patricia,Miller,1960-09-06,M,White,San Diego,CA,94138,Medicare,2022-09-18,True
+PT0022,Barbara,Brown,2005-01-02,F,Black,Sacramento,CA,96912,Medicare,2021-09-11,True
+PT0023,John,Wilson,2003-07-09,M,White,Oakland,CA,93068,Commercial,2022-10-02,True
+PT0024,Barbara,Harris,1941-02-05,F,Asian,Long Beach,CA,94020,Commercial,2021-06-01,False
+PT0025,Robert,Thomas,1950-03-27,F,White,Los Angeles,CA,93485,Medicare,2023-02-26,True
+PT0026,Linda,Brown,1947-08-23,Non-binary,Asian,Sacramento,CA,99561,Self-Pay,2022-07-11,False
+PT0027,Susan,Moore,1966-09-04,Non-binary,Other,Los Angeles,CA,92625,Medicare,2021-03-08,True
+PT0028,Robert,Garcia,1999-04-01,F,Hispanic,San Francisco,CA,93564,Commercial,2022-04-16,False
+PT0029,Jessica,Moore,2001-11-05,M,Hispanic,Oakland,CA,95632,Commercial,2022-07-18,True
+PT0030,Linda,Wilson,2001-09-01,Non-binary,Hispanic,Fresno,CA,92880,Medicare,2021-04-05,True
+PT0031,John,Williams,1963-10-31,M,Hispanic,Oakland,CA,95728,Self-Pay,2020-09-11,False
+PT0032,Barbara,Thomas,2001-10-13,M,Other,Anaheim,CA,98172,Commercial,2023-05-09,True
+PT0033,William,Wilson,1978-10-04,M,White,Sacramento,CA,91339,Commercial,2021-07-05,True
+PT0034,Jennifer,Harris,2008-06-17,Non-binary,Asian,Oakland,CA,93973,Medicare,2022-06-11,False
+PT0035,Jessica,Anderson,1948-03-08,F,Black,Long Beach,CA,92713,Medicare,2021-11-06,False
+PT0036,Jessica,Moore,2002-03-26,F,Other,Los Angeles,CA,98451,Commercial,2021-10-06,True
+PT0037,Patricia,Thomas,1969-01-01,Non-binary,White,Anaheim,CA,97770,Commercial,2021-01-19,True
+PT0038,Jessica,White,1995-11-10,M,Hispanic,Oakland,CA,99998,Medicare,2021-08-12,False
+PT0039,Jessica,Brown,2002-08-23,M,Other,Sacramento,CA,93594,Medicaid,2023-02-02,True
+PT0040,Susan,Williams,1989-07-18,F,White,Anaheim,CA,92924,Commercial,2020-11-11,False
+PT0041,Barbara,Wilson,2004-04-15,F,Asian,Anaheim,CA,94993,Self-Pay,2023-02-02,True
+PT0042,Michael,Jones,1974-05-31,M,Black,Fresno,CA,96568,Medicare,2021-07-01,True
+PT0043,Barbara,Harris,1965-05-17,F,Asian,Anaheim,CA,96654,Medicaid,2023-02-04,False
+PT0044,William,Miller,1980-11-06,F,Other,Fresno,CA,94826,Self-Pay,2020-03-30,True
+PT0045,Jessica,Thomas,2006-10-23,F,Hispanic,Anaheim,CA,91606,Medicare,2022-10-25,True
+PT0046,Joseph,Brown,1949-01-01,Non-binary,Asian,Los Angeles,CA,93361,Self-Pay,2020-11-12,True
+PT0047,David,Taylor,1982-02-13,Non-binary,Asian,San Francisco,CA,96383,Commercial,2022-12-28,False
+PT0048,Jessica,Johnson,1968-05-29,Non-binary,White,Sacramento,CA,95708,Medicare,2020-07-04,False
+PT0049,Patricia,White,1948-10-30,F,Black,Los Angeles,CA,91753,Medicaid,2020-04-24,True
+PT0050,Elizabeth,Jackson,1972-02-28,F,Hispanic,Fresno,CA,93950,Medicare,2020-12-24,True
+PT0051,Richard,Davis,1994-09-05,F,Other,San Diego,CA,94804,Self-Pay,2021-06-04,False
+PT0052,James,White,1962-11-27,M,Other,San Diego,CA,92210,Self-Pay,2021-12-08,True
+PT0053,Susan,Wilson,1997-04-27,F,Black,Sacramento,CA,97302,Self-Pay,2020-08-06,True
+PT0054,Elizabeth,Moore,1974-03-19,M,White,Fresno,CA,95497,Commercial,2023-03-05,True
+PT0055,Jessica,Moore,1994-05-27,F,Other,Long Beach,CA,94588,Commercial,2021-01-24,True
+PT0056,John,Brown,2000-10-20,M,Black,Anaheim,CA,91546,Medicare,2022-01-17,True
+PT0057,Barbara,Taylor,1948-02-01,F,Hispanic,Sacramento,CA,93165,Medicare,2022-01-19,True
+PT0058,David,Harris,1954-10-05,M,Black,San Francisco,CA,98673,Commercial,2020-10-15,True
+PT0059,Richard,Anderson,2000-09-03,M,Asian,Los Angeles,CA,95332,Medicare,2020-09-10,False
+PT0060,David,Thomas,1973-01-24,M,White,Sacramento,CA,98724,Commercial,2023-02-23,True
+PT0061,Linda,Williams,1994-09-25,F,Black,Fresno,CA,92911,Medicare,2020-04-02,True
+PT0062,Jessica,Brown,1967-04-22,M,Hispanic,San Diego,CA,97367,Self-Pay,2022-01-29,False
+PT0063,John,Jackson,1992-09-09,M,Asian,Fresno,CA,95583,Commercial,2022-01-28,True
+PT0064,Joseph,Davis,1979-10-11,M,White,Long Beach,CA,99920,Commercial,2022-01-04,True
+PT0065,David,Miller,1975-09-20,M,Asian,San Francisco,CA,94475,Commercial,2023-05-07,True
+PT0066,William,Davis,1944-07-15,F,Other,Sacramento,CA,92124,Medicare,2021-02-28,True
+PT0067,William,Jones,1960-11-25,Non-binary,White,Oakland,CA,93370,Medicare,2023-01-11,True
+PT0068,Patricia,Smith,1955-08-27,F,White,Long Beach,CA,94898,Medicare,2021-10-25,True
+PT0069,David,Johnson,1955-08-19,F,Asian,San Francisco,CA,92041,Self-Pay,2022-07-07,True
+PT0070,Patricia,White,1986-01-16,Non-binary,Hispanic,Los Angeles,CA,99543,Medicaid,2022-07-27,True
+PT0071,Jessica,Thomas,1945-06-16,F,White,Anaheim,CA,98267,Commercial,2020-06-14,True
+PT0072,John,Williams,1994-07-28,F,Black,Long Beach,CA,97240,Medicare,2022-12-22,True
+PT0073,Susan,Brown,1980-09-14,M,Other,Sacramento,CA,98046,Self-Pay,2021-04-12,False
+PT0074,Joseph,Thomas,1970-05-29,F,White,Long Beach,CA,97992,Medicaid,2021-06-06,True
+PT0075,Jessica,Williams,1953-09-10,M,White,San Francisco,CA,98075,Commercial,2022-02-02,True
+PT0076,Mary,Taylor,1989-11-30,M,Asian,Long Beach,CA,97929,Commercial,2020-04-15,True
+PT0077,Barbara,Anderson,1993-11-12,M,Other,Sacramento,CA,93535,Commercial,2022-09-14,True
+PT0078,Elizabeth,Anderson,1949-09-16,M,Black,Sacramento,CA,98030,Medicare,2023-02-14,True
+PT0079,David,Smith,1994-08-20,F,Black,Oakland,CA,96567,Medicaid,2020-01-13,True
+PT0080,Richard,Williams,1952-11-07,F,White,San Francisco,CA,99691,Medicare,2022-02-09,False
+PT0081,William,Garcia,1980-09-12,M,Black,Long Beach,CA,92391,Commercial,2020-11-14,True
+PT0082,Mary,Williams,2007-09-07,M,Asian,Fresno,CA,98957,Medicare,2022-06-24,False
+PT0083,Michael,Brown,1964-07-04,M,Asian,San Francisco,CA,95640,Commercial,2023-04-29,False
+PT0084,Barbara,Johnson,1987-04-10,F,Asian,Los Angeles,CA,91125,Medicare,2021-09-09,True
+PT0085,John,Wilson,2008-11-03,M,Black,San Francisco,CA,91126,Self-Pay,2022-05-31,True
+PT0086,Richard,Davis,1951-08-04,Non-binary,Other,Long Beach,CA,92180,Self-Pay,2020-03-27,False
+PT0087,Joseph,Williams,1941-09-06,M,Other,Fresno,CA,97626,Commercial,2022-05-05,True
+PT0088,Richard,Smith,1950-05-02,M,Hispanic,Anaheim,CA,96928,Commercial,2022-06-13,True
+PT0089,Susan,Thomas,1961-10-29,Non-binary,White,Fresno,CA,96083,Commercial,2021-11-26,True
+PT0090,Jennifer,Williams,1969-11-17,Non-binary,White,Sacramento,CA,96724,Medicaid,2020-10-29,True
+PT0091,John,Wilson,1949-03-22,F,Hispanic,San Diego,CA,92234,Medicare,2022-10-08,False
+PT0092,Joseph,Taylor,2007-09-07,M,Hispanic,Anaheim,CA,92118,Self-Pay,2022-06-24,True
+PT0093,Mary,Anderson,1964-08-22,Non-binary,White,Oakland,CA,98565,Self-Pay,2020-03-18,True
+PT0094,Barbara,Williams,1973-01-29,M,Other,Fresno,CA,98581,Medicare,2023-02-09,True
+PT0095,Michael,Taylor,1980-05-06,Non-binary,Asian,San Diego,CA,92013,Self-Pay,2020-07-30,True
+PT0096,Robert,Garcia,2004-01-31,M,Hispanic,Anaheim,CA,98199,Medicare,2022-12-06,True
+PT0097,Elizabeth,Moore,1972-08-24,F,Asian,Long Beach,CA,91857,Commercial,2021-11-16,True
+PT0098,Patricia,Thomas,1969-07-30,M,Black,San Diego,CA,96461,Commercial,2023-04-08,True
+PT0099,Barbara,Thomas,1971-05-20,F,Other,San Francisco,CA,96072,Medicare,2022-02-10,True
+PT0100,Robert,Jackson,1951-06-19,Non-binary,Black,Los Angeles,CA,96940,Medicaid,2021-01-04,True
+PT0101,Jessica,Miller,1970-08-28,F,Hispanic,San Diego,CA,92264,Medicaid,2020-07-26,True
+PT0102,William,Jones,1999-05-21,Non-binary,Asian,San Diego,CA,93658,Medicare,2020-12-05,False
+PT0103,Susan,Anderson,1943-12-02,F,Asian,Oakland,CA,98355,Medicare,2022-12-29,True
+PT0104,Jessica,Miller,1967-10-06,M,Other,Anaheim,CA,98564,Medicaid,2022-02-21,False
+PT0105,Michael,Jones,1954-07-16,M,White,Anaheim,CA,97081,Medicare,2020-07-29,True
+PT0106,Robert,Garcia,1965-07-28,M,Asian,San Diego,CA,98167,Commercial,2021-03-30,False
+PT0107,James,Jackson,1971-05-13,M,Asian,Long Beach,CA,94862,Self-Pay,2020-06-16,True
+PT0108,James,Taylor,1960-02-22,M,Black,San Diego,CA,93254,Commercial,2021-08-10,False
+PT0109,John,Harris,2002-06-12,F,Other,Los Angeles,CA,92298,Commercial,2021-06-08,True
+PT0110,Susan,Brown,1953-05-31,M,Hispanic,Oakland,CA,92996,Commercial,2021-05-03,False
+PT0111,Joseph,Williams,1997-04-28,M,Asian,Los Angeles,CA,99443,Medicare,2021-05-10,True
+PT0112,Susan,Smith,1966-02-17,Non-binary,Black,Sacramento,CA,97825,Medicare,2020-06-24,True
+PT0113,James,Thomas,1946-01-26,F,White,Fresno,CA,97116,Medicaid,2020-02-03,True
+PT0114,Robert,Anderson,2010-09-28,F,White,Long Beach,CA,93185,Commercial,2021-12-22,True
+PT0115,Jennifer,White,1997-09-01,F,Hispanic,San Diego,CA,92033,Commercial,2022-07-26,True
+PT0116,Michael,Johnson,1966-04-29,F,White,Long Beach,CA,96080,Medicare,2022-03-26,False
+PT0117,Mary,Miller,1962-09-22,M,Black,Los Angeles,CA,96438,Medicaid,2020-09-11,True
+PT0118,Richard,White,1979-03-15,F,Black,San Diego,CA,99129,Commercial,2022-10-15,True
+PT0119,David,Williams,1986-08-02,F,White,Fresno,CA,93956,Medicare,2021-08-24,True
+PT0120,Robert,Taylor,1949-03-15,M,Black,Anaheim,CA,97981,Medicare,2022-06-28,True
+PT0121,Mary,Anderson,1980-02-11,Non-binary,Asian,Oakland,CA,91939,Commercial,2022-04-11,True
+PT0122,Jennifer,Smith,1986-01-11,F,Other,Anaheim,CA,91570,Medicare,2020-05-17,True
+PT0123,Elizabeth,Anderson,2009-11-04,F,Other,Los Angeles,CA,93513,Commercial,2022-07-10,True
+PT0124,Joseph,Williams,1973-05-17,Non-binary,Hispanic,Long Beach,CA,97521,Medicaid,2021-07-24,True
+PT0125,James,Garcia,1950-03-06,F,Other,Fresno,CA,92929,Medicaid,2021-06-17,False
+PT0126,Barbara,Harris,1959-04-02,F,White,San Diego,CA,92213,Self-Pay,2020-12-19,False
+PT0127,William,Anderson,1947-11-16,M,Other,Oakland,CA,95914,Medicare,2020-12-22,True
+PT0128,Linda,Brown,1985-08-22,F,Hispanic,Sacramento,CA,99094,Commercial,2022-01-09,True
+PT0129,John,Williams,1981-12-06,M,Black,Fresno,CA,98842,Medicare,2022-04-21,False
+PT0130,Robert,Jones,1991-07-30,M,White,Anaheim,CA,98632,Commercial,2022-11-25,True
+PT0131,Jennifer,Jones,1951-07-07,F,Other,Los Angeles,CA,93034,Medicare,2020-11-09,True
+PT0132,Jennifer,Taylor,1954-10-09,F,Black,Oakland,CA,92292,Medicaid,2021-02-06,True
+PT0133,Barbara,Williams,1951-03-25,Non-binary,Hispanic,San Diego,CA,93804,Commercial,2023-05-24,True
+PT0134,Mary,Smith,1990-07-25,M,White,Oakland,CA,94453,Medicare,2022-05-03,True
+PT0135,Barbara,Moore,1984-09-05,F,Hispanic,Fresno,CA,95873,Self-Pay,2020-05-29,True
+PT0136,Joseph,Jackson,1954-03-07,F,Asian,Sacramento,CA,96573,Medicare,2020-10-21,True
+PT0137,William,Anderson,2004-06-12,F,Hispanic,Long Beach,CA,99437,Medicare,2020-08-05,True
+PT0138,Joseph,Brown,1961-09-08,M,Asian,Sacramento,CA,93308,Commercial,2020-04-13,True
+PT0139,Susan,Davis,1974-06-18,F,Black,Long Beach,CA,94110,Medicare,2022-10-17,False
+PT0140,Barbara,Harris,1984-09-29,M,White,Fresno,CA,99281,Self-Pay,2021-05-08,True
+PT0141,Elizabeth,Johnson,1992-05-02,M,Black,Anaheim,CA,98710,Medicaid,2023-01-04,True
+PT0142,Susan,Jones,1949-08-23,M,Black,Fresno,CA,96995,Commercial,2022-03-31,True
+PT0143,Michael,Anderson,1991-02-28,Non-binary,Black,San Francisco,CA,97329,Medicare,2022-07-11,True
+PT0144,Patricia,Jones,1995-11-30,M,Asian,Long Beach,CA,96555,Medicare,2022-01-18,True
+PT0145,Richard,Johnson,1957-11-09,M,White,San Diego,CA,96456,Self-Pay,2022-11-29,False
+PT0146,John,Taylor,1953-05-12,Non-binary,Black,San Diego,CA,97438,Medicare,2021-09-04,True
+PT0147,Jessica,Moore,1985-07-06,F,White,Long Beach,CA,96427,Commercial,2020-08-12,False
+PT0148,Barbara,Smith,1992-05-13,Non-binary,Asian,Oakland,CA,94728,Commercial,2020-04-15,False
+PT0149,Richard,Jones,1955-04-19,F,White,San Francisco,CA,94125,Commercial,2022-06-22,True
+PT0150,John,Jackson,1977-07-27,F,Asian,Anaheim,CA,92020,Commercial,2020-10-09,True

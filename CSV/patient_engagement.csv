@@ -1,0 +1,161 @@
+engagement_id,patient_id,date,channel,activity_type,portal_logins_30d,messages_sent,appointments_scheduled_online,medication_adherence_pct,care_gap_closed,last_login_date
+ENG0001,PT0011,2022-06-06,Phone,Education Content Viewed,1,2,4,0.99,False,2022-07-27
+ENG0002,PT0098,2024-11-15,In-Person,Appointment Scheduled,10,10,5,0.65,False,2022-02-15
+ENG0003,PT0048,2023-06-11,In-Person,Appointment Scheduled,26,6,0,0.9,False,2023-06-19
+ENG0004,PT0078,2024-11-18,SMS,Medication Refill,22,0,2,0.79,True,2024-06-13
+ENG0005,PT0071,2023-01-16,Phone,Lab Result Viewed,19,6,1,0.84,False,2022-01-11
+ENG0006,PT0105,2023-03-01,Portal,Secure Message,21,2,2,0.63,False,2023-10-14
+ENG0007,PT0025,2023-03-30,Mobile App,Lab Result Viewed,22,5,1,0.53,False,2024-08-01
+ENG0008,PT0108,2023-11-05,SMS,Secure Message,15,8,0,0.67,False,2023-12-11
+ENG0009,PT0114,2022-11-07,Email,Bill Paid,6,8,5,0.59,False,2023-06-08
+ENG0010,PT0104,2022-03-08,In-Person,Appointment Scheduled,20,7,4,0.99,True,2023-03-02
+ENG0011,PT0136,2024-01-27,Phone,Health Record Accessed,24,5,3,0.84,True,2022-11-16
+ENG0012,PT0150,2022-12-08,SMS,Education Content Viewed,18,6,3,1.0,True,2023-08-05
+ENG0013,PT0143,2024-10-02,Mobile App,Secure Message,29,8,1,0.69,True,2022-07-18
+ENG0014,PT0102,2023-03-24,Mobile App,Appointment Scheduled,18,4,1,0.93,False,2024-04-01
+ENG0015,PT0141,2024-04-16,Phone,Medication Refill,13,9,2,0.66,False,2022-08-05
+ENG0016,PT0082,2024-10-25,SMS,Secure Message,7,6,3,0.88,False,2024-07-09
+ENG0017,PT0041,2022-12-30,Email,Health Record Accessed,0,8,2,0.88,False,2022-12-19
+ENG0018,PT0026,2024-02-25,SMS,Secure Message,13,6,1,0.82,False,2023-04-05
+ENG0019,PT0036,2024-10-27,Portal,Secure Message,30,0,2,0.8,True,2024-08-24
+ENG0020,PT0024,2024-01-29,Portal,Secure Message,17,8,1,0.93,True,2024-07-26
+ENG0021,PT0095,2023-05-06,Mobile App,Bill Paid,29,3,2,0.57,True,2022-03-05
+ENG0022,PT0053,2024-08-02,Email,Medication Refill,21,9,3,0.99,True,2024-08-02
+ENG0023,PT0129,2022-08-16,SMS,Education Content Viewed,27,2,1,0.73,True,2022-01-15
+ENG0024,PT0009,2024-04-12,SMS,Bill Paid,27,6,0,0.89,False,2022-09-05
+ENG0025,PT0137,2022-02-18,Email,Bill Paid,26,0,2,0.91,False,2022-03-23
+ENG0026,PT0094,2024-03-29,In-Person,Bill Paid,13,1,0,0.57,False,2022-08-17
+ENG0027,PT0044,2024-01-21,Email,Education Content Viewed,4,3,3,0.61,True,2023-11-07
+ENG0028,PT0019,2024-07-27,In-Person,Bill Paid,24,3,2,0.67,False,2024-06-29
+ENG0029,PT0085,2024-07-11,In-Person,Health Record Accessed,18,4,4,0.52,True,2022-10-31
+ENG0030,PT0134,2023-08-14,Portal,Medication Refill,28,5,4,0.68,False,2023-09-21
+ENG0031,PT0041,2023-09-17,Email,Bill Paid,21,4,1,0.87,False,2022-09-21
+ENG0032,PT0038,2023-08-22,Email,Health Record Accessed,20,3,0,0.93,False,2023-09-13
+ENG0033,PT0038,2022-01-25,Phone,Education Content Viewed,23,8,5,0.94,False,2024-04-11
+ENG0034,PT0123,2022-12-15,Phone,Message Sent,18,8,2,0.76,False,2024-09-20
+ENG0035,PT0044,2024-12-11,Email,Message Sent,15,6,0,0.83,True,2023-12-03
+ENG0036,PT0058,2023-09-26,Mobile App,Medication Refill,4,4,4,0.89,True,2023-02-08
+ENG0037,PT0092,2024-10-18,Email,Lab Result Viewed,26,8,1,0.87,False,2022-03-09
+ENG0038,PT0103,2022-07-22,Phone,Appointment Scheduled,8,8,4,0.92,False,2022-06-12
+ENG0039,PT0015,2024-07-03,SMS,Medication Refill,7,4,5,0.59,False,2023-05-17
+ENG0040,PT0059,2024-07-23,Mobile App,Lab Result Viewed,19,4,4,0.64,False,2023-01-25
+ENG0041,PT0017,2022-09-29,SMS,Health Record Accessed,1,3,1,0.62,False,2024-09-04
+ENG0042,PT0119,2022-07-21,SMS,Lab Result Viewed,10,10,0,0.6,True,2024-06-24
+ENG0043,PT0022,2024-09-01,Mobile App,Appointment Scheduled,17,9,1,0.8,False,2022-01-20
+ENG0044,PT0149,2024-05-30,Portal,Bill Paid,24,10,1,0.79,False,2024-07-23
+ENG0045,PT0001,2023-05-31,Email,Health Record Accessed,15,10,1,0.66,False,2024-11-19
+ENG0046,PT0073,2023-09-06,Phone,Medication Refill,10,4,5,0.78,False,2024-06-20
+ENG0047,PT0029,2023-01-09,Email,Lab Result Viewed,10,8,3,0.75,True,2022-05-15
+ENG0048,PT0111,2023-09-16,Portal,Bill Paid,10,10,5,0.77,True,2023-02-01
+ENG0049,PT0028,2023-04-20,Mobile App,Health Record Accessed,16,4,2,0.88,False,2022-07-30
+ENG0050,PT0077,2023-03-07,SMS,Message Sent,10,2,1,0.88,True,2022-11-20
+ENG0051,PT0041,2023-10-29,SMS,Bill Paid,20,9,3,0.89,False,2023-04-14
+ENG0052,PT0068,2024-08-24,Phone,Education Content Viewed,4,4,2,0.86,False,2023-10-08
+ENG0053,PT0116,2023-09-23,Email,Secure Message,24,6,0,0.88,False,2022-04-24
+ENG0054,PT0105,2023-12-26,In-Person,Message Sent,14,4,0,0.91,True,2023-03-04
+ENG0055,PT0066,2023-08-27,Phone,Lab Result Viewed,10,6,3,0.66,False,2023-02-13
+ENG0056,PT0056,2024-10-27,Email,Health Record Accessed,3,1,1,0.58,False,2024-09-09
+ENG0057,PT0121,2022-04-05,In-Person,Secure Message,22,7,1,0.64,False,2024-02-08
+ENG0058,PT0016,2022-07-27,Portal,Education Content Viewed,8,8,2,0.72,False,2022-08-16
+ENG0059,PT0121,2022-10-03,In-Person,Appointment Scheduled,10,6,1,0.94,False,2023-09-05
+ENG0060,PT0147,2023-02-14,SMS,Appointment Scheduled,14,3,2,0.79,False,2023-06-18
+ENG0061,PT0143,2024-12-23,Phone,Lab Result Viewed,4,1,5,0.86,False,2024-01-10
+ENG0062,PT0115,2023-03-16,Mobile App,Education Content Viewed,14,3,3,0.68,True,2023-06-15
+ENG0063,PT0066,2022-02-17,Mobile App,Appointment Scheduled,20,6,3,0.7,False,2022-04-09
+ENG0064,PT0136,2022-05-04,SMS,Education Content Viewed,0,9,3,1.0,False,2023-11-01
+ENG0065,PT0138,2024-10-04,Phone,Education Content Viewed,20,1,5,0.54,True,2022-08-19
+ENG0066,PT0137,2022-11-21,SMS,Appointment Scheduled,18,7,4,0.83,True,2022-05-30
+ENG0067,PT0111,2023-07-22,Email,Bill Paid,28,2,5,0.67,True,2023-11-27
+ENG0068,PT0117,2024-12-16,In-Person,Secure Message,28,0,3,0.79,True,2024-03-09
+ENG0069,PT0005,2022-01-18,Mobile App,Education Content Viewed,13,2,2,0.93,False,2023-10-31
+ENG0070,PT0137,2024-07-26,In-Person,Medication Refill,24,9,2,0.95,False,2022-11-09
+ENG0071,PT0049,2022-10-31,Mobile App,Health Record Accessed,5,1,0,0.77,True,2022-09-18
+ENG0072,PT0139,2023-12-15,Portal,Education Content Viewed,27,5,1,0.83,True,2023-09-13
+ENG0073,PT0042,2024-05-18,Phone,Medication Refill,29,3,2,0.51,False,2022-09-10
+ENG0074,PT0097,2022-02-22,Email,Medication Refill,12,0,3,0.72,True,2023-02-26
+ENG0075,PT0098,2022-09-13,Portal,Message Sent,16,9,5,0.76,True,2023-03-06
+ENG0076,PT0031,2024-09-28,In-Person,Education Content Viewed,23,5,3,0.6,True,2024-11-04
+ENG0077,PT0093,2024-09-05,Phone,Appointment Scheduled,30,7,0,0.5,False,2024-03-30
+ENG0078,PT0026,2023-12-28,Phone,Health Record Accessed,26,1,3,0.97,False,2023-09-08
+ENG0079,PT0059,2022-06-22,In-Person,Secure Message,28,7,0,0.98,False,2023-10-25
+ENG0080,PT0012,2022-10-16,Mobile App,Message Sent,18,0,1,0.76,True,2024-08-20
+ENG0081,PT0010,2022-05-06,SMS,Medication Refill,27,10,2,0.69,False,2022-11-19
+ENG0082,PT0108,2022-12-20,Mobile App,Message Sent,23,10,1,0.68,True,2022-11-29
+ENG0083,PT0008,2024-10-15,Mobile App,Health Record Accessed,12,10,2,0.95,False,2023-10-20
+ENG0084,PT0008,2022-02-22,Phone,Lab Result Viewed,28,7,0,0.87,True,2024-04-14
+ENG0085,PT0012,2024-02-12,SMS,Message Sent,5,1,0,0.67,True,2022-07-08
+ENG0086,PT0108,2022-05-16,Portal,Bill Paid,14,6,4,0.72,False,2022-01-02
+ENG0087,PT0080,2024-09-02,Email,Health Record Accessed,4,5,5,0.77,False,2022-07-17
+ENG0088,PT0123,2024-10-06,In-Person,Medication Refill,4,3,4,0.56,True,2023-04-07
+ENG0089,PT0022,2022-07-14,In-Person,Secure Message,9,9,0,0.62,False,2023-01-14
+ENG0090,PT0078,2023-11-05,In-Person,Bill Paid,21,9,4,0.76,False,2022-09-27
+ENG0091,PT0084,2024-05-14,Phone,Message Sent,18,0,5,0.95,False,2022-04-09
+ENG0092,PT0051,2023-01-09,Portal,Message Sent,20,0,1,0.58,False,2022-01-24
+ENG0093,PT0147,2024-09-11,Email,Education Content Viewed,6,10,4,0.7,True,2024-07-17
+ENG0094,PT0068,2024-06-19,Portal,Health Record Accessed,20,8,2,0.67,True,2023-06-07
+ENG0095,PT0088,2024-09-25,SMS,Bill Paid,21,1,5,0.93,False,2023-06-23
+ENG0096,PT0017,2024-01-19,Email,Lab Result Viewed,30,8,1,0.55,False,2022-08-16
+ENG0097,PT0031,2023-08-29,Mobile App,Education Content Viewed,9,7,3,0.78,True,2024-10-30
+ENG0098,PT0047,2024-03-25,SMS,Medication Refill,4,10,1,0.89,True,2023-12-26
+ENG0099,PT0135,2022-11-07,SMS,Lab Result Viewed,25,8,2,0.77,False,2024-12-23
+ENG0100,PT0043,2024-02-06,Mobile App,Appointment Scheduled,21,2,5,0.82,False,2023-04-09
+ENG0101,PT0039,2024-05-18,Mobile App,Health Record Accessed,1,6,2,0.69,False,2024-05-12
+ENG0102,PT0122,2024-08-16,Phone,Message Sent,23,4,0,0.54,False,2023-10-01
+ENG0103,PT0054,2022-05-17,Portal,Secure Message,4,2,3,0.91,True,2024-03-12
+ENG0104,PT0041,2024-05-08,Email,Medication Refill,7,5,0,0.61,False,2022-10-15
+ENG0105,PT0103,2022-09-10,In-Person,Message Sent,6,7,1,0.84,False,2022-01-23
+ENG0106,PT0031,2024-12-02,Phone,Appointment Scheduled,24,10,4,0.74,False,2024-06-16
+ENG0107,PT0077,2022-09-13,SMS,Bill Paid,4,1,5,0.67,False,2022-03-25
+ENG0108,PT0098,2023-06-08,Portal,Bill Paid,13,9,1,0.94,False,2024-09-24
+ENG0109,PT0075,2023-04-06,SMS,Appointment Scheduled,2,9,4,0.93,True,2024-10-09
+ENG0110,PT0111,2024-05-13,Portal,Appointment Scheduled,27,4,5,0.87,False,2024-11-06
+ENG0111,PT0085,2024-05-09,In-Person,Health Record Accessed,11,1,0,0.55,False,2023-05-13
+ENG0112,PT0150,2024-10-10,Mobile App,Secure Message,21,4,0,1.0,False,2024-09-26
+ENG0113,PT0144,2024-02-09,SMS,Secure Message,1,9,0,0.8,False,2022-07-21
+ENG0114,PT0148,2022-07-14,Portal,Medication Refill,11,9,5,0.85,False,2024-05-13
+ENG0115,PT0101,2022-03-23,Phone,Bill Paid,27,7,4,0.93,True,2024-03-27
+ENG0116,PT0111,2022-02-22,Mobile App,Message Sent,0,10,2,0.55,False,2022-02-28
+ENG0117,PT0117,2023-06-04,Phone,Education Content Viewed,11,3,2,0.72,True,2023-10-27
+ENG0118,PT0118,2023-06-23,Mobile App,Medication Refill,17,8,5,0.66,False,2023-12-15
+ENG0119,PT0045,2024-10-20,Portal,Education Content Viewed,11,9,4,0.87,True,2023-10-11
+ENG0120,PT0079,2022-07-27,In-Person,Appointment Scheduled,20,6,2,0.81,False,2023-01-17
+ENG0121,PT0098,2023-02-19,Phone,Bill Paid,11,5,3,0.95,True,2022-12-12
+ENG0122,PT0083,2022-02-02,Portal,Medication Refill,18,4,4,0.85,False,2023-08-30
+ENG0123,PT0144,2022-12-31,Email,Appointment Scheduled,6,1,0,0.86,False,2024-04-08
+ENG0124,PT0068,2022-10-26,In-Person,Education Content Viewed,17,5,3,0.57,False,2022-08-01
+ENG0125,PT0076,2022-06-18,Phone,Medication Refill,14,0,1,0.77,False,2023-07-15
+ENG0126,PT0007,2024-10-09,Mobile App,Medication Refill,7,3,3,0.82,True,2022-10-25
+ENG0127,PT0004,2023-08-31,Mobile App,Lab Result Viewed,27,9,3,0.92,False,2023-01-29
+ENG0128,PT0106,2023-01-17,SMS,Secure Message,20,9,3,0.87,False,2024-01-16
+ENG0129,PT0068,2024-06-02,Phone,Education Content Viewed,28,3,2,0.77,True,2022-10-03
+ENG0130,PT0083,2023-05-21,SMS,Message Sent,3,8,5,0.74,False,2022-08-03
+ENG0131,PT0059,2023-12-15,In-Person,Medication Refill,14,4,4,0.92,False,2024-06-15
+ENG0132,PT0128,2024-06-12,Portal,Message Sent,0,8,3,0.78,True,2023-12-13
+ENG0133,PT0123,2022-10-30,Portal,Education Content Viewed,2,4,4,0.63,False,2022-02-26
+ENG0134,PT0126,2024-06-01,In-Person,Message Sent,12,3,5,0.73,False,2023-09-16
+ENG0135,PT0085,2023-04-22,SMS,Secure Message,4,8,5,0.79,True,2022-04-19
+ENG0136,PT0092,2022-09-03,Portal,Appointment Scheduled,16,6,5,0.58,True,2023-05-25
+ENG0137,PT0046,2023-01-07,Portal,Bill Paid,23,1,2,0.54,False,2024-03-04
+ENG0138,PT0105,2024-02-20,In-Person,Bill Paid,4,5,1,0.55,False,2022-12-30
+ENG0139,PT0111,2023-06-01,Email,Appointment Scheduled,5,4,3,0.6,False,2022-06-17
+ENG0140,PT0087,2024-07-14,Portal,Health Record Accessed,0,9,0,0.99,True,2024-02-04
+ENG0141,PT0025,2022-12-12,Portal,Lab Result Viewed,0,5,3,0.65,False,2024-02-07
+ENG0142,PT0018,2022-12-20,Mobile App,Bill Paid,5,8,1,0.99,True,2022-11-13
+ENG0143,PT0096,2022-12-29,Email,Message Sent,16,2,3,0.52,True,2022-09-04
+ENG0144,PT0080,2023-08-20,Portal,Education Content Viewed,21,2,4,0.76,True,2024-10-16
+ENG0145,PT0050,2022-11-14,SMS,Education Content Viewed,30,7,5,0.77,False,2024-07-06
+ENG0146,PT0030,2022-05-15,Phone,Medication Refill,11,2,1,0.98,False,2023-01-21
+ENG0147,PT0104,2022-03-27,Phone,Lab Result Viewed,29,7,5,0.85,False,2022-07-22
+ENG0148,PT0134,2022-07-06,In-Person,Education Content Viewed,29,8,4,0.79,False,2024-12-04
+ENG0149,PT0101,2023-02-16,Phone,Education Content Viewed,4,7,1,0.65,False,2024-05-23
+ENG0150,PT0104,2024-06-10,Email,Appointment Scheduled,15,0,3,0.55,False,2024-09-18
+ENG0151,PT0100,2023-09-19,Email,Health Record Accessed,24,10,5,0.53,True,2023-01-21
+ENG0152,PT0023,2023-09-21,SMS,Message Sent,20,5,5,0.52,True,2022-04-07
+ENG0153,PT0078,2024-02-28,Mobile App,Education Content Viewed,30,8,0,0.91,False,2024-06-07
+ENG0154,PT0131,2024-12-09,Mobile App,Education Content Viewed,21,0,1,0.55,True,2023-03-30
+ENG0155,PT0082,2022-05-30,In-Person,Medication Refill,15,3,4,0.82,True,2022-04-03
+ENG0156,PT0098,2023-02-26,In-Person,Appointment Scheduled,29,4,0,0.95,False,2023-11-09
+ENG0157,PT0046,2024-03-09,Mobile App,Education Content Viewed,29,6,0,0.58,False,2023-05-20
+ENG0158,PT0067,2024-05-15,In-Person,Health Record Accessed,6,10,5,0.96,False,2022-01-21
+ENG0159,PT0107,2024-04-27,Email,Health Record Accessed,26,3,3,0.63,True,2024-03-20
+ENG0160,PT0011,2024-07-08,Mobile App,Medication Refill,2,10,0,0.56,False,2022-05-17

@@ -1,0 +1,51 @@
+provider_id,first_name,last_name,title,specialty,department_id,npi,hire_date,is_active
+P001,Michael,Wilson,MD,Psychiatrist,D011,4131575764,2013-08-31,False
+P002,Richard,Wilson,RN,Orthopedic Surgeon,D011,1240251661,2010-09-20,True
+P003,Richard,Wilson,MD,Orthopedic Surgeon,D010,2351531223,2021-03-13,False
+P004,Joseph,Jones,NP,Neurologist,D004,7609857128,2019-08-11,False
+P005,Elizabeth,Davis,DO,General Surgeon,D008,1470939445,2013-08-03,False
+P006,Robert,Thomas,PA,Psychiatrist,D008,7567496105,2022-05-30,True
+P007,Patricia,Wilson,NP,Oncologist,D005,2867302554,2020-03-05,True
+P008,David,Garcia,RN,Oncologist,D011,3615507143,2013-06-06,True
+P009,Jennifer,Smith,RN,Emergency Physician,D008,1083651970,2018-02-21,True
+P010,Linda,Johnson,DO,Psychiatrist,D002,9957813353,2020-11-25,True
+P011,John,Jones,PA,General Surgeon,D003,6633778586,2018-05-18,False
+P012,Joseph,Brown,DO,Orthopedic Surgeon,D002,2452066459,2022-06-04,True
+P013,Linda,Smith,MD,OB/GYN,D011,1252860896,2011-07-07,True
+P014,William,Williams,RN,Orthopedic Surgeon,D005,8168204967,2014-10-22,True
+P015,Jessica,Davis,PA,Radiologist,D004,1405126228,2019-09-02,True
+P016,Susan,Jackson,PA,OB/GYN,D001,1422701550,2019-01-12,True
+P017,Patricia,Davis,DO,Orthopedic Surgeon,D009,2926780541,2019-06-19,True
+P018,David,White,DO,Oncologist,D008,1420514789,2022-02-15,True
+P019,Robert,Davis,DO,Radiologist,D008,3067418686,2018-12-30,True
+P020,Jennifer,Thomas,MD,Radiologist,D005,8667072205,2016-05-25,False
+P021,Jessica,Jones,DO,Pediatrician,D004,5160575046,2022-12-28,True
+P022,William,Johnson,MD,Psychiatrist,D008,1676168421,2021-05-23,True
+P023,Jennifer,Williams,RN,Oncologist,D011,4701485292,2019-01-21,True
+P024,Linda,Johnson,RN,Oncologist,D007,2119980130,2017-01-17,True
+P025,David,Thomas,DO,Dermatologist,D011,6583444930,2017-02-03,True
+P026,James,White,RN,Psychiatrist,D002,9904586976,2014-10-13,True
+P027,John,Anderson,MD,Orthopedic Surgeon,D006,2224011538,2019-10-30,True
+P028,James,Moore,MD,Neurologist,D005,3376077463,2016-02-10,True
+P029,Michael,Taylor,DO,Dermatologist,D011,8958199946,2021-05-03,False
+P030,David,Johnson,MD,Dermatologist,D007,8856990236,2010-12-28,True
+P031,William,Jones,NP,Neurologist,D012,8325785916,2022-07-31,True
+P032,Patricia,Williams,DO,General Surgeon,D001,8879525611,2022-05-24,True
+P033,Susan,Jones,MD,Pediatrician,D006,4696689457,2018-01-10,True
+P034,Linda,Brown,NP,General Surgeon,D007,4218981849,2015-04-24,True
+P035,Jennifer,Jackson,MD,Neurologist,D012,9265609985,2019-03-27,True
+P036,David,Garcia,MD,Radiologist,D001,8982597239,2014-12-28,True
+P037,Joseph,Anderson,NP,Orthopedic Surgeon,D004,9691572571,2014-05-02,False
+P038,William,Wilson,MD,Pediatrician,D006,7597996327,2010-08-15,True
+P039,David,Garcia,RN,Pediatrician,D001,7161404428,2017-01-13,False
+P040,Patricia,Thomas,RN,Orthopedic Surgeon,D005,9780573290,2019-10-13,True
+P041,Michael,Anderson,PA,Oncologist,D011,9249648005,2017-01-15,True
+P042,Barbara,Moore,PA,Emergency Physician,D007,8289454630,2022-06-08,True
+P043,Michael,Jackson,PA,Dermatologist,D012,4877520294,2022-10-07,True
+P044,Richard,Smith,NP,Pediatrician,D004,8106906538,2020-06-06,False
+P045,Joseph,Miller,RN,Internist,D012,5659161352,2021-07-24,True
+P046,Robert,Davis,NP,Orthopedic Surgeon,D004,1632880459,2011-01-14,True
+P047,Jessica,Williams,PA,Radiologist,D011,3472487690,2018-08-12,False
+P048,Richard,Davis,DO,Dermatologist,D012,2825989011,2013-12-11,False
+P049,Mary,Davis,MD,Internist,D003,8737025391,2021-11-30,True
+P050,Joseph,Jackson,RN,Internist,D003,7333678472,2015-10-25,True

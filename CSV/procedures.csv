@@ -1,0 +1,61 @@
+procedure_id,cpt_code,procedure_name,procedure_type,department_id,avg_duration_min,avg_cost
+PR001,99213,Office Visit - Moderate,Therapeutic,D005,63,7502.41
+PR002,99214,Office Visit - High,Diagnostic,D001,122,4938.64
+PR003,71046,Chest X-Ray,Diagnostic,D004,67,584.96
+PR004,93000,ECG,Lab,D001,129,4802.39
+PR005,80048,Basic Metabolic Panel,Diagnostic,D004,26,3248.01
+PR006,36415,Venipuncture,Therapeutic,D009,70,6047.37
+PR007,99283,ED Visit - Moderate,Diagnostic,D003,143,7948.19
+PR008,27447,Total Knee Replacement,Therapeutic,D012,162,2585.28
+PR009,43239,Upper GI Endoscopy,Lab,D011,97,1933.39
+PR010,70553,MRI Brain w/ Contrast,Therapeutic,D011,148,1807.29
+PR011,93306,Echocardiogram,Surgical,D005,30,4475.91
+PR012,45378,Colonoscopy,Lab,D012,59,5026.65
+PR013,99232,Subsequent Hospital Care,Preventive,D009,141,422.73
+PR014,20610,Joint Injection,Surgical,D011,112,6297.15
+PR015,64483,Epidural Steroid Injection,Surgical,D012,121,3295.66
+PR016,90834,Psychotherapy 45min,Surgical,D007,62,6047.61
+PR017,99385,Preventive Visit 18-39,Preventive,D004,72,2440.85
+PR018,86003,Allergy Test,Therapeutic,D008,29,4520.97
+PR019,97110,Therapeutic Exercise,Preventive,D009,150,1116.04
+PR020,76700,Abdominal Ultrasound,Therapeutic,D005,67,2675.59
+PR021,99213,Office Visit - Moderate,Diagnostic,D008,109,785.09
+PR022,99214,Office Visit - High,Therapeutic,D001,83,3048.49
+PR023,71046,Chest X-Ray,Lab,D010,25,6995.28
+PR024,93000,ECG,Therapeutic,D010,158,1775.28
+PR025,80048,Basic Metabolic Panel,Therapeutic,D006,92,7658.31
+PR026,36415,Venipuncture,Diagnostic,D004,63,7698.52
+PR027,99283,ED Visit - Moderate,Diagnostic,D012,137,7319.81
+PR028,27447,Total Knee Replacement,Lab,D012,67,3203.22
+PR029,43239,Upper GI Endoscopy,Therapeutic,D009,97,6215.34
+PR030,70553,MRI Brain w/ Contrast,Preventive,D008,151,5207.33
+PR031,93306,Echocardiogram,Surgical,D005,107,4126.89
+PR032,45378,Colonoscopy,Preventive,D008,40,6432.39
+PR033,99232,Subsequent Hospital Care,Preventive,D006,67,2997.1
+PR034,20610,Joint Injection,Preventive,D001,159,6919.47
+PR035,64483,Epidural Steroid Injection,Therapeutic,D001,81,4448.83
+PR036,90834,Psychotherapy 45min,Lab,D010,121,2396.78
+PR037,99385,Preventive Visit 18-39,Therapeutic,D006,73,3069.73
+PR038,86003,Allergy Test,Therapeutic,D008,155,5254.13
+PR039,97110,Therapeutic Exercise,Surgical,D005,140,7733.74
+PR040,76700,Abdominal Ultrasound,Preventive,D008,58,5875.54
+PR041,99213,Office Visit - Moderate,Surgical,D003,50,5776.49
+PR042,99214,Office Visit - High,Preventive,D003,153,7923.07
+PR043,71046,Chest X-Ray,Diagnostic,D009,23,6720.59
+PR044,93000,ECG,Diagnostic,D011,27,6126.49
+PR045,80048,Basic Metabolic Panel,Preventive,D003,176,1889.9
+PR046,36415,Venipuncture,Therapeutic,D001,70,4070.58
+PR047,99283,ED Visit - Moderate,Surgical,D001,173,5119.94
+PR048,27447,Total Knee Replacement,Lab,D008,139,175.07
+PR049,43239,Upper GI Endoscopy,Lab,D009,120,144.22
+PR050,70553,MRI Brain w/ Contrast,Lab,D012,85,4309.12
+PR051,93306,Echocardiogram,Surgical,D001,143,6514.6
+PR052,45378,Colonoscopy,Preventive,D003,42,7348.49
+PR053,99232,Subsequent Hospital Care,Lab,D003,76,1575.86
+PR054,20610,Joint Injection,Lab,D005,105,2175.23
+PR055,64483,Epidural Steroid Injection,Preventive,D002,110,7676.42
+PR056,90834,Psychotherapy 45min,Preventive,D010,77,7922.35
+PR057,99385,Preventive Visit 18-39,Therapeutic,D005,35,5247.2
+PR058,86003,Allergy Test,Diagnostic,D002,118,3065.15
+PR059,97110,Therapeutic Exercise,Lab,D008,29,5112.15
+PR060,76700,Abdominal Ultrasound,Therapeutic,D002,142,6770.37

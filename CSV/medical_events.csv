@@ -1,0 +1,161 @@
+event_id,encounter_id,patient_id,event_date,event_type,procedure_id,diagnosis_id,severity,outcome,notes
+ME0001,E0091,PT0133,2022-01-20,Physician Order,PR016,DX019,Low,Discharged,Follow-up scheduled
+ME0002,E0020,PT0142,2023-01-01,Infection,PR021,DX023,Medium,Escalated,Follow-up scheduled
+ME0003,E0047,PT0049,2024-10-18,Nursing Note,PR016,DX048,Medium,Transferred,Medication adjusted
+ME0004,E0059,PT0052,2023-05-27,Adverse Event,PR010,DX050,Low,Resolved,Patient stable
+ME0005,E0174,PT0127,2022-01-14,Vital Signs,PR031,DX024,High,Discharged,Patient education provided
+ME0006,E0071,PT0126,2023-01-10,Physician Order,PR026,DX015,Medium,Resolved,Patient education provided
+ME0007,E0109,PT0123,2022-03-08,Adverse Event,PR026,DX056,Medium,Discharged,Patient stable
+ME0008,E0179,PT0133,2024-07-31,Adverse Event,PR045,DX001,Low,Ongoing,Specialist consulted
+ME0009,E0149,PT0026,2023-10-29,Adverse Event,PR040,DX056,High,Ongoing,Patient education provided
+ME0010,E0068,PT0061,2023-07-06,Infection,PR040,DX022,High,Ongoing,Specialist consulted
+ME0011,E0109,PT0054,2024-05-08,Adverse Event,PR024,DX055,Critical,Transferred,Specialist consulted
+ME0012,E0047,PT0147,2022-09-26,Nursing Note,PR007,DX047,High,Ongoing,Patient education provided
+ME0013,E0111,PT0098,2023-02-06,Procedure,PR048,DX010,Critical,Resolved,Medication adjusted
+ME0014,E0108,PT0128,2022-10-03,Adverse Event,PR032,DX020,High,Escalated,Patient education provided
+ME0015,E0013,PT0102,2022-07-22,Procedure,PR004,DX014,High,Discharged,Patient stable
+ME0016,E0116,PT0086,2023-06-17,Adverse Event,PR024,DX036,High,Transferred,Patient stable
+ME0017,E0106,PT0032,2023-12-21,Nursing Note,PR037,DX037,Medium,Transferred,Follow-up scheduled
+ME0018,E0084,PT0131,2024-09-25,Infection,PR006,DX025,High,Discharged,Medication adjusted
+ME0019,E0043,PT0087,2024-05-13,Fall,PR005,DX006,Medium,Transferred,Medication adjusted
+ME0020,E0081,PT0082,2023-08-20,Physician Order,PR039,DX042,Critical,Transferred,Specialist consulted
+ME0021,E0093,PT0134,2024-07-11,Fall,PR011,DX012,Low,Ongoing,Medication adjusted
+ME0022,E0170,PT0065,2022-06-13,Nursing Note,PR011,DX026,Low,Resolved,Patient stable
+ME0023,E0122,PT0141,2022-04-21,Vital Signs,PR050,DX026,Low,Resolved,Follow-up scheduled
+ME0024,E0159,PT0040,2022-06-22,Fall,PR020,DX015,Medium,Transferred,Specialist consulted
+ME0025,E0161,PT0033,2022-09-26,Procedure,PR002,DX003,High,Transferred,Specialist consulted
+ME0026,E0120,PT0139,2023-07-12,Infection,PR009,DX045,Medium,Escalated,Patient education provided
+ME0027,E0117,PT0145,2024-06-09,Physician Order,PR023,DX031,Medium,Resolved,Specialist consulted
+ME0028,E0079,PT0094,2024-04-24,Physician Order,PR010,DX020,Low,Resolved,Patient education provided
+ME0029,E0035,PT0089,2023-08-11,Infection,PR035,DX001,Critical,Discharged,Follow-up scheduled
+ME0030,E0003,PT0111,2023-08-23,Nursing Note,PR001,DX036,High,Ongoing,Specialist consulted
+ME0031,E0144,PT0112,2024-03-19,Nursing Note,PR011,DX046,Critical,Discharged,Medication adjusted
+ME0032,E0068,PT0021,2024-05-14,Nursing Note,PR034,DX049,High,Transferred,Patient education provided
+ME0033,E0069,PT0106,2023-01-21,Medication Admin,PR012,DX009,High,Resolved,Specialist consulted
+ME0034,E0159,PT0116,2023-07-12,Infection,PR013,DX021,Low,Ongoing,Patient stable
+ME0035,E0137,PT0006,2023-01-16,Medication Admin,PR019,DX018,Medium,Discharged,Patient stable
+ME0036,E0060,PT0024,2022-11-05,Vital Signs,PR032,DX014,High,Discharged,Follow-up scheduled
+ME0037,E0128,PT0096,2024-08-07,Vital Signs,PR022,DX006,Medium,Resolved,Follow-up scheduled
+ME0038,E0101,PT0019,2024-08-20,Procedure,PR013,DX058,High,Discharged,Patient stable
+ME0039,E0032,PT0064,2024-02-28,Infection,PR016,DX048,Low,Ongoing,Specialist consulted
+ME0040,E0025,PT0134,2023-03-03,Infection,PR025,DX044,High,Transferred,Medication adjusted
+ME0041,E0162,PT0011,2024-12-02,Medication Admin,PR017,DX031,High,Ongoing,Follow-up scheduled
+ME0042,E0014,PT0056,2022-08-20,Nursing Note,PR041,DX028,High,Resolved,Medication adjusted
+ME0043,E0071,PT0150,2022-09-03,Fall,PR016,DX001,Low,Escalated,Specialist consulted
+ME0044,E0177,PT0040,2024-01-31,Medication Admin,PR016,DX011,Critical,Resolved,Patient education provided
+ME0045,E0087,PT0016,2022-05-03,Adverse Event,PR042,DX010,Low,Ongoing,Specialist consulted
+ME0046,E0060,PT0082,2023-12-13,Infection,PR047,DX013,Low,Discharged,Follow-up scheduled
+ME0047,E0035,PT0065,2022-03-22,Infection,PR046,DX029,High,Escalated,Specialist consulted
+ME0048,E0049,PT0146,2023-01-18,Adverse Event,PR021,DX047,Critical,Transferred,Patient education provided
+ME0049,E0142,PT0042,2022-05-22,Procedure,PR029,DX019,High,Escalated,Follow-up scheduled
+ME0050,E0117,PT0001,2024-11-02,Fall,PR047,DX012,Low,Escalated,Follow-up scheduled
+ME0051,E0159,PT0062,2023-10-19,Medication Admin,PR043,DX035,Critical,Ongoing,Patient education provided
+ME0052,E0175,PT0128,2022-11-12,Physician Order,PR021,DX027,High,Resolved,Patient stable
+ME0053,E0134,PT0018,2022-03-31,Procedure,PR012,DX056,Low,Ongoing,Patient stable
+ME0054,E0125,PT0050,2022-07-22,Vital Signs,PR037,DX042,Critical,Discharged,Patient education provided
+ME0055,E0160,PT0066,2022-04-11,Adverse Event,PR015,DX039,Low,Resolved,Medication adjusted
+ME0056,E0168,PT0126,2022-06-13,Infection,PR041,DX004,High,Escalated,Specialist consulted
+ME0057,E0095,PT0015,2023-06-29,Vital Signs,PR047,DX005,High,Resolved,Medication adjusted
+ME0058,E0133,PT0025,2022-07-27,Nursing Note,PR035,DX025,Medium,Ongoing,Patient education provided
+ME0059,E0169,PT0064,2023-01-02,Fall,PR048,DX007,High,Discharged,Specialist consulted
+ME0060,E0027,PT0043,2023-01-05,Fall,PR033,DX022,Medium,Escalated,Patient education provided
+ME0061,E0114,PT0091,2023-10-08,Adverse Event,PR024,DX027,Critical,Transferred,Patient education provided
+ME0062,E0062,PT0145,2023-03-15,Fall,PR050,DX036,High,Transferred,Specialist consulted
+ME0063,E0115,PT0102,2022-01-01,Vital Signs,PR019,DX039,Low,Escalated,Medication adjusted
+ME0064,E0078,PT0002,2023-09-08,Nursing Note,PR014,DX055,High,Resolved,Follow-up scheduled
+ME0065,E0142,PT0131,2022-11-13,Medication Admin,PR003,DX030,High,Ongoing,Medication adjusted
+ME0066,E0068,PT0094,2023-05-27,Nursing Note,PR017,DX052,High,Resolved,Patient education provided
+ME0067,E0103,PT0146,2023-03-22,Medication Admin,PR047,DX021,Critical,Ongoing,Specialist consulted
+ME0068,E0177,PT0148,2022-07-15,Physician Order,PR003,DX047,Critical,Resolved,Patient stable
+ME0069,E0086,PT0090,2024-06-08,Fall,PR008,DX056,Medium,Escalated,Patient stable
+ME0070,E0163,PT0098,2022-04-21,Physician Order,PR034,DX003,High,Escalated,Patient education provided
+ME0071,E0039,PT0084,2024-10-25,Nursing Note,PR010,DX004,Critical,Discharged,Patient education provided
+ME0072,E0148,PT0130,2022-07-04,Nursing Note,PR028,DX019,Critical,Ongoing,Medication adjusted
+ME0073,E0087,PT0022,2024-09-01,Vital Signs,PR036,DX026,High,Resolved,Specialist consulted
+ME0074,E0129,PT0112,2022-09-25,Procedure,PR031,DX036,Medium,Discharged,Specialist consulted
+ME0075,E0167,PT0147,2023-02-06,Nursing Note,PR016,DX005,High,Discharged,Follow-up scheduled
+ME0076,E0176,PT0148,2022-07-03,Medication Admin,PR043,DX027,Critical,Transferred,Follow-up scheduled
+ME0077,E0049,PT0083,2023-12-07,Vital Signs,PR050,DX020,Medium,Transferred,Patient education provided
+ME0078,E0114,PT0038,2024-06-21,Vital Signs,PR015,DX013,High,Ongoing,Patient stable
+ME0079,E0029,PT0014,2023-05-13,Procedure,PR019,DX001,High,Resolved,Follow-up scheduled
+ME0080,E0116,PT0121,2022-02-16,Adverse Event,PR014,DX048,Medium,Ongoing,Patient education provided
+ME0081,E0134,PT0067,2024-09-16,Procedure,PR045,DX045,Low,Discharged,Patient education provided
+ME0082,E0170,PT0135,2022-03-31,Physician Order,PR011,DX004,High,Ongoing,Patient education provided
+ME0083,E0070,PT0014,2024-08-10,Vital Signs,PR005,DX025,High,Transferred,Patient stable
+ME0084,E0005,PT0075,2024-03-02,Nursing Note,PR025,DX033,Low,Transferred,Specialist consulted
+ME0085,E0153,PT0137,2022-06-30,Procedure,PR013,DX033,Critical,Escalated,Patient stable
+ME0086,E0011,PT0064,2024-12-20,Physician Order,PR022,DX032,Critical,Ongoing,Patient stable
+ME0087,E0089,PT0091,2023-12-29,Physician Order,PR016,DX033,High,Resolved,Follow-up scheduled
+ME0088,E0100,PT0008,2023-07-28,Nursing Note,PR010,DX022,Critical,Ongoing,Patient stable
+ME0089,E0098,PT0134,2023-04-11,Fall,PR016,DX037,Medium,Discharged,Follow-up scheduled
+ME0090,E0155,PT0085,2024-07-08,Procedure,PR014,DX042,Medium,Escalated,Patient education provided
+ME0091,E0176,PT0052,2022-10-10,Physician Order,PR045,DX046,Medium,Discharged,Medication adjusted
+ME0092,E0168,PT0145,2022-11-20,Adverse Event,PR005,DX036,Low,Ongoing,Follow-up scheduled
+ME0093,E0038,PT0008,2023-10-15,Fall,PR027,DX020,Critical,Transferred,Medication adjusted
+ME0094,E0049,PT0028,2022-09-27,Procedure,PR002,DX049,High,Escalated,Patient education provided
+ME0095,E0157,PT0060,2023-04-21,Nursing Note,PR044,DX002,High,Resolved,Specialist consulted
+ME0096,E0035,PT0129,2024-08-18,Adverse Event,PR012,DX055,Critical,Discharged,Specialist consulted
+ME0097,E0036,PT0042,2023-01-31,Nursing Note,PR003,DX027,Low,Transferred,Specialist consulted
+ME0098,E0057,PT0052,2023-02-23,Medication Admin,PR012,DX060,Critical,Escalated,Specialist consulted
+ME0099,E0177,PT0084,2024-07-26,Nursing Note,PR028,DX026,Low,Escalated,Specialist consulted
+ME0100,E0081,PT0101,2024-12-11,Vital Signs,PR034,DX007,Critical,Discharged,Patient stable
+ME0101,E0063,PT0133,2024-03-21,Vital Signs,PR036,DX025,Low,Ongoing,Follow-up scheduled
+ME0102,E0113,PT0102,2023-09-16,Physician Order,PR030,DX011,Critical,Transferred,Patient education provided
+ME0103,E0014,PT0133,2022-10-19,Infection,PR042,DX029,Low,Escalated,Patient stable
+ME0104,E0047,PT0150,2022-10-05,Fall,PR027,DX021,Critical,Resolved,Medication adjusted
+ME0105,E0117,PT0052,2024-07-20,Medication Admin,PR017,DX021,Medium,Resolved,Patient stable
+ME0106,E0030,PT0116,2024-01-14,Medication Admin,PR034,DX046,Critical,Escalated,Patient education provided
+ME0107,E0041,PT0097,2024-02-19,Vital Signs,PR050,DX011,High,Escalated,Medication adjusted
+ME0108,E0042,PT0038,2023-01-02,Vital Signs,PR027,DX020,High,Discharged,Follow-up scheduled
+ME0109,E0161,PT0047,2022-08-29,Procedure,PR013,DX001,High,Resolved,Specialist consulted
+ME0110,E0128,PT0128,2022-01-12,Infection,PR016,DX014,Critical,Discharged,Specialist consulted
+ME0111,E0114,PT0021,2022-01-14,Nursing Note,PR036,DX018,Medium,Resolved,Medication adjusted
+ME0112,E0038,PT0015,2023-12-16,Vital Signs,PR010,DX055,Low,Escalated,Patient education provided
+ME0113,E0077,PT0085,2022-06-29,Vital Signs,PR007,DX027,Medium,Ongoing,Follow-up scheduled
+ME0114,E0157,PT0147,2022-12-30,Infection,PR048,DX038,High,Resolved,Patient stable
+ME0115,E0077,PT0083,2024-01-25,Fall,PR005,DX049,Critical,Escalated,Patient stable
+ME0116,E0075,PT0121,2022-10-03,Medication Admin,PR045,DX056,High,Transferred,Patient education provided
+ME0117,E0106,PT0135,2023-03-06,Nursing Note,PR040,DX004,Low,Escalated,Patient education provided
+ME0118,E0023,PT0124,2023-08-12,Fall,PR039,DX055,High,Transferred,Patient education provided
+ME0119,E0148,PT0091,2022-09-23,Infection,PR034,DX047,Critical,Discharged,Medication adjusted
+ME0120,E0157,PT0060,2023-08-18,Nursing Note,PR001,DX008,Low,Discharged,Patient stable
+ME0121,E0054,PT0107,2024-04-27,Vital Signs,PR022,DX023,Medium,Resolved,Medication adjusted
+ME0122,E0177,PT0073,2023-06-06,Medication Admin,PR020,DX020,High,Resolved,Patient stable
+ME0123,E0176,PT0086,2023-12-01,Fall,PR047,DX037,Low,Ongoing,Medication adjusted
+ME0124,E0085,PT0087,2024-09-08,Infection,PR003,DX042,Medium,Discharged,Medication adjusted
+ME0125,E0161,PT0118,2023-11-18,Infection,PR027,DX060,Low,Escalated,Follow-up scheduled
+ME0126,E0145,PT0081,2022-02-08,Nursing Note,PR037,DX044,High,Transferred,Patient stable
+ME0127,E0039,PT0072,2022-03-05,Adverse Event,PR025,DX041,Medium,Escalated,Patient education provided
+ME0128,E0100,PT0048,2022-08-28,Physician Order,PR046,DX055,High,Resolved,Follow-up scheduled
+ME0129,E0106,PT0023,2024-10-14,Nursing Note,PR024,DX029,High,Ongoing,Patient education provided
+ME0130,E0078,PT0045,2022-08-18,Adverse Event,PR003,DX050,Medium,Resolved,Specialist consulted
+ME0131,E0130,PT0007,2024-09-15,Procedure,PR013,DX022,Critical,Escalated,Follow-up scheduled
+ME0132,E0084,PT0037,2022-07-21,Procedure,PR014,DX047,Low,Discharged,Specialist consulted
+ME0133,E0134,PT0030,2022-01-09,Physician Order,PR003,DX044,Low,Transferred,Specialist consulted
+ME0134,E0012,PT0027,2024-12-02,Physician Order,PR002,DX037,High,Ongoing,Follow-up scheduled
+ME0135,E0052,PT0050,2023-08-10,Physician Order,PR035,DX021,Critical,Resolved,Follow-up scheduled
+ME0136,E0039,PT0041,2023-07-15,Medication Admin,PR001,DX040,Low,Ongoing,Patient education provided
+ME0137,E0090,PT0141,2023-10-15,Physician Order,PR010,DX046,High,Escalated,Medication adjusted
+ME0138,E0044,PT0019,2023-09-30,Adverse Event,PR035,DX029,Low,Ongoing,Patient stable
+ME0139,E0121,PT0013,2022-08-05,Fall,PR004,DX006,Critical,Discharged,Medication adjusted
+ME0140,E0153,PT0115,2023-12-30,Physician Order,PR022,DX053,Medium,Escalated,Patient stable
+ME0141,E0120,PT0146,2022-09-27,Medication Admin,PR045,DX030,Low,Discharged,Follow-up scheduled
+ME0142,E0176,PT0120,2024-08-21,Nursing Note,PR015,DX010,High,Transferred,Specialist consulted
+ME0143,E0047,PT0085,2023-10-28,Infection,PR032,DX002,Low,Discharged,Patient stable
+ME0144,E0090,PT0123,2024-08-02,Procedure,PR019,DX050,High,Escalated,Patient education provided
+ME0145,E0033,PT0131,2022-07-30,Fall,PR046,DX051,Low,Transferred,Patient education provided
+ME0146,E0167,PT0019,2023-09-11,Infection,PR026,DX038,Critical,Ongoing,Patient education provided
+ME0147,E0063,PT0141,2022-11-22,Infection,PR025,DX005,High,Ongoing,Patient education provided
+ME0148,E0111,PT0112,2023-12-02,Nursing Note,PR012,DX043,Low,Escalated,Specialist consulted
+ME0149,E0030,PT0119,2023-10-29,Medication Admin,PR029,DX012,High,Discharged,Patient stable
+ME0150,E0154,PT0028,2024-02-16,Adverse Event,PR032,DX042,Low,Resolved,Medication adjusted
+ME0151,E0036,PT0149,2022-01-01,Procedure,PR043,DX010,Critical,Escalated,Follow-up scheduled
+ME0152,E0100,PT0148,2024-07-04,Nursing Note,PR014,DX044,High,Transferred,Patient education provided
+ME0153,E0174,PT0078,2024-06-09,Adverse Event,PR006,DX038,Low,Escalated,Patient education provided
+ME0154,E0104,PT0033,2023-08-26,Vital Signs,PR024,DX058,Low,Resolved,Patient education provided
+ME0155,E0092,PT0029,2023-08-01,Vital Signs,PR016,DX028,Critical,Transferred,Specialist consulted
+ME0156,E0104,PT0098,2024-06-10,Nursing Note,PR043,DX012,Critical,Ongoing,Medication adjusted
+ME0157,E0143,PT0099,2024-01-08,Fall,PR010,DX019,Medium,Ongoing,Patient stable
+ME0158,E0019,PT0005,2022-10-22,Infection,PR043,DX028,Medium,Resolved,Medication adjusted
+ME0159,E0165,PT0107,2024-07-22,Fall,PR040,DX012,Critical,Escalated,Specialist consulted
+ME0160,E0142,PT0116,2024-02-27,Adverse Event,PR015,DX012,Critical,Escalated,Patient stable

@@ -1,0 +1,11 @@
+hospital_id,hospital_name,city,state,zip_code,hospital_type,bed_count,is_active
+H001,Holistic Health Medical Center #1,Los Angeles,CA,95506,Specialty,214,True
+H002,Holistic Health Community Hospital #2,San Francisco,CA,99935,General,402,True
+H003,Holistic Health Specialty Center #3,Los Angeles,CA,91488,General,211,True
+H004,Holistic Health Community Hospital #4,Los Angeles,CA,94257,Teaching,212,True
+H005,Holistic Health Specialty Center #5,Fresno,CA,91106,Specialty,457,True
+H006,Holistic Health Specialty Center #6,Oakland,CA,95552,Specialty,210,True
+H007,Holistic Health Regional #7,San Francisco,CA,92519,Teaching,149,True
+H008,Holistic Health Regional #8,Oakland,CA,95333,General,473,True
+H009,Holistic Health Specialty Center #9,San Francisco,CA,97201,General,382,True
+H010,Holistic Health Regional #10,Oakland,CA,94150,General,123,True
